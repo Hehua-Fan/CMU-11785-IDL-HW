@@ -4,7 +4,9 @@ CMU 11785 Introduction to Deep Learning Homework
 
 ### Kaggle Link
 [HW1P2 Kaggle](https://www.kaggle.com/competitions/11785-hw1p2-s24/)
+
 [11785 HW2P2 - Face Recognition | Kaggle](https://www.kaggle.com/competitions/11785-hw2p2-face-recognition)
+
 [11785 HW2P2 - Face Verification | Kaggle](https://www.kaggle.com/competitions/11785-hw2p2-face-verification)
 
 ## My Solution

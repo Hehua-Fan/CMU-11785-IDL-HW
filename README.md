@@ -9,7 +9,7 @@ CMU 11785 Introduction to Deep Learning Homework
 
 [11785 HW2P2 - Face Verification | Kaggle](https://www.kaggle.com/competitions/11785-hw2p2-face-verification)
 
-[11785 HW3P2 - Speech Recognition | Kaggle](https://www.kaggle.com/competitions/11785-hw2p2-face-verification)
+[11785 HW3P2 - Speech Recognition | Kaggle](https://www.kaggle.com/competitions/hw3p2asr-s24)
 
 ## My Solution
 * [HW1P2_acc84%](https://colab.research.google.com/drive/1xPVMykrCR76U4gVO_WNzg8ZGDjzJT2nN?usp=sharing)
